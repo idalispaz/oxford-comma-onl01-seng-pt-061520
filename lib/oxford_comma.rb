@@ -1,6 +1,6 @@
 def oxford_comma(array)
-  array = ["me"]
-    return array
+  array = ["kiwi"]
+    return array[1]
   
 end 
 
