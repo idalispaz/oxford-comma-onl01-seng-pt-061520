@@ -1,7 +1,7 @@
-string_1 = ["me","you","them","1"]
+fruit_array = ["kiwi","durian","starfruit","mangos","dragonfruit"]
+
 def oxford_comma(array)
-  if array.join == 1 
-    return array.join
+  if array == 1 
 end
 
 
